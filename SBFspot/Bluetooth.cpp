@@ -32,6 +32,7 @@ DISCLAIMER:
 
 ************************************************************************************************/
 
+#include <sys/select.h>
 #include "misc.h"
 #include "bluetooth.h"
 
